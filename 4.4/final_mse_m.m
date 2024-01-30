@@ -316,37 +316,3 @@ xlabel('number of BS collocated antennas,M'); ylabel('MSE');
 grid on;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
